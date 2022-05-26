@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - I am currently working as an Associate Software Engineer in [Amdocs Development Centre India,Pune](https://www.amdocs.com/)
-- Currently I am working under an US based client (AT&T US) which is a telecommunication organization and my tasks involve designing logics in a flagship Amdocs Product,designing API,enhancing and creating CI/CD pipeline for variuos automation.
+- Currently I am working under an US based client (AT&T US) which is a telecommunication organization and my tasks involve designing logics in a flagship Amdocs Product,designing API,enhancing and creating CI/CD pipeline for various automation.
 - Before joining Amdocs I have worked as a Software Developer Intern in Dzinex Technologies Pvt Ltd.
 - I have completed Master Of Computer Applications from [Birla Institute of Technology(Ranchi)](https://www.bitmesra.ac.in/).
 
